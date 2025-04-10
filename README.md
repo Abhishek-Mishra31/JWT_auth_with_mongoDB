@@ -110,7 +110,7 @@ Verifies the validity of an `auth_token` and returns associated user details.
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/Abhishek-Mishra31/JWT_auth_with_mongoDB
    cd your-repo
    ```
 
